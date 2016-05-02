@@ -1,0 +1,4 @@
+{new zero := 0;
+new num :=0;
+while read != zero { num := num + read; }
+write num;}
